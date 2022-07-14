@@ -1,10 +1,16 @@
 # **Flood-fill-maze-solver-algorithm**
 - **urdf bot solves maze using flood fill algorithm**
 
-<img src= "https://user-images.githubusercontent.com/78396437/178936762-3e1d932b-55f3-47da-812e-ac4769e81e16.gif" alt="Drone" align="left" width="230">
+![WhatsApp Video 2022-07-14 at 1 43 00 PM](https://user-images.githubusercontent.com/78396437/178941153-5ded85fa-c61e-400b-bdf1-36fa9bf674f0.gif)
 
-<img src= "https://user-images.githubusercontent.com/78396437/178936774-9514ce1f-b658-452b-af1a-99f6d85f3197.gif" alt="Drone" align="right" width="230">
+<br>
 
-<img src= "https://user-images.githubusercontent.com/78396437/178936779-e8274755-edbb-4258-9069-49c3e2422da6.gif" alt="Drone" align="center" width="230">
+![WhatsApp Video 2022-07-14 at 1 46 39 PM](https://user-images.githubusercontent.com/78396437/178941261-64ef74c8-9c02-4411-ab41-999b4d22cb2b.gif)
 
-<img src= "https://user-images.githubusercontent.com/78396437/178936804-54dbc373-c132-45f6-9952-755a561bdd86.gif" alt="Drone" align="center" width="230">
+<br>
+
+![WhatsApp Video 2022-07-14 at 1 48 34 PM](https://user-images.githubusercontent.com/78396437/178941404-5d96ca05-e666-453e-bd9a-e7191ebdf390.gif)
+
+<br>
+
+![WhatsApp Video 2022-07-14 at 1 49 34 PM](https://user-images.githubusercontent.com/78396437/178941373-f176b952-16f4-4873-a2f5-6bee42528294.gif)
